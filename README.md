@@ -1,6 +1,6 @@
 # helloworld
 
-adiing new lines
+ading new lines
 
 
 my name's marc
